@@ -20,9 +20,9 @@ public class Main {
     //uso math.pow para elevar a las potencias 3 y 2
     resultado = (int) Math.pow(p, 3) + (int) Math.pow(q, 2);
     if (resultado < 680) {
-      System.out.println("Los valores de P y Q satisfacen la expresión");
+      System.out.println("Los valores de P y Q si satisfacen la expresion");
     } else {
-      System.out.println("Los valores de P y Q no satisfacen la expresión");
+      System.out.println("Los valores de P y Q no satisfacen la expresion");
     }
     scanner.close();
 
